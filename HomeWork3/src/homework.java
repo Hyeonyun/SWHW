@@ -25,6 +25,7 @@ public class homework {
    System.out.println(arr1[a] +" "+arr2[a]);
    System.out.println("1");
    System.out.println("2");
+   System.out.println("3");
   }
   scan.close();
  }
